@@ -2,14 +2,14 @@
 # DevLab: I2C MPR121QR2 Capacitive Touch Sensor
 
 <div align="center">
-  <img src="" width="450px" alt="DevLab MPR121 Capacitive Touch Sensor">
+  <img src="./hardware/resources/unit_top_v_0_0_1ue0116_mpr121qr2_capacitive_touch_sensor.png" width="450px" alt="DevLab MPR121 Capacitive Touch Sensor">
 </div>
 
 <div align="center">
 
 ### Quick Start
 
-[<img src="https://img.shields.io/badge/Product%20Wiki-blue?style=for-the-badge" alt="Product Wiki">](#)
+[<img src="https://img.shields.io/badge/Product%20Wiki-blue?style=for-the-badge" alt="Product Wiki">](https://wiki.uelectronics.com/wiki/devlab_i2c_mpr121qr2_capacitive_touch_sensor)
 [<img src="https://img.shields.io/badge/Datasheet-green?style=for-the-badge" alt="Datasheet">](https://www.nxp.com/docs/en/data-sheet/MPR121.pdf)
 [<img src="https://img.shields.io/badge/Buy%20Now-orange?style=for-the-badge" alt="Buy Now">](#)
 [<img src="https://img.shields.io/badge/Getting%20Started-purple?style=for-the-badge" alt="Getting Started">](docs/)
