@@ -1,4 +1,4 @@
-# Plug and Make - MPR121 USB HID Keyboard
+# USB HID Keyboard - MPR121
 
 ## Technical Overview
 
@@ -496,7 +496,7 @@ void handleMacroKey(uint8_t module, uint8_t electrode) {
 **Project Resources:**
 - Issue Tracker: https://github.com/UNIT-Electronics/devlab_i2c_mpr121qr2_capacitive_touch_sensor/issues
 - Documentation: `/docs` directory in repository
-- Additional Examples: `/software/examples/test`
+- Additional Examples: `/software/examples/cpp_examples`
 
 ## License
 

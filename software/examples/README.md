@@ -1,6 +1,6 @@
-# Arduino Examples
+# C/C++ Firmware Examples
 
-This folder contains validated Arduino examples for the **DevLab: I2C MPR121QR2 Capacitive Touch Sensor** module.
+This folder contains validated C/C++ firmware examples for the **DevLab: I2C MPR121QR2 Capacitive Touch Sensor** module.
 
 ## Technical Validation Summary
 
@@ -25,7 +25,7 @@ This folder contains validated Arduino examples for the **DevLab: I2C MPR121QR2 
 
 ## Examples Overview
 
-### 1. Single Module with IRQ (`test/1_module.ino`)
+### 1. Single Module with IRQ (`cpp_examples/single_module_irq/single_module_irq.ino`)
 
 **Description:**  
 This example demonstrates the basic usage of one MPR121 module using the **IRQ (Interrupt Request)** pin for efficient touch detection. Instead of constantly polling the sensor, the ESP32 only reads touch data when the IRQ pin goes low, indicating a change in touch status.
@@ -63,7 +63,7 @@ MPR121 Module:
 
 ---
 
-### 2. Three Modules without IRQ (`test/3_modules.ino`)
+### 2. Three Modules without IRQ (`cpp_examples/three_modules_polling/three_modules_polling.ino`)
 
 **Description:**  
 This example shows how to use **three MPR121 modules simultaneously** on the same I2C bus, using different addresses configured via DIP switches. It demonstrates polling-based detection without IRQ pins, making wiring simpler when using multiple sensors.

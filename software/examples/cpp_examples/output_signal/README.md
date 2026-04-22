@@ -1,5 +1,13 @@
 # MPR121QR2 Capacitive Touch and GPIO Output Implementation
 
+## Sketches in this folder
+
+- `output_signal.ino`: current diagnostic/tuning sketch used during board bring-up.
+
+Separated examples (one per directory):
+- `../output_only_basic/output_only_basic.ino`: basic output-only GPIO test.
+- `../input_output_complex/input_output_complex.ino`: combined touch input + GPIO output test.
+
 ## Technical Overview
 
 This implementation provides register-level control of the  DevLab I2C MPR121QR2 Capacitive Touch Sensor controller interfaced with the ESP32-S3 microcontroller. The firmware operates without external library dependencies, utilizing direct I2C register access for complete hardware control.
