@@ -40,7 +40,7 @@
 ## Pinout
 
 <div align="center">
-    <a href="unit_pinout_v_1_0_0_ue00116_12C_MPR121QR2_capacitive_touch_sensor_en.pdf"><img src="./resources/unit_pinout_v_1_0_0_ue00116_12C_MPR121QR2_capacitive_touch_sensor_en.jpg" width="500px"><br/>Pinout</a>
+    <a href="\unit_pinout_v_0_0_1ue0116_mpr121qr2_capacitive_touch_sensor_en.pdf"><img src="\resources\unit_pinout_v_0_0_1ue0116_mpr121qr2_capacitive_touch_sensor_en_2026-04-24_page_1.png" width="500px"><br/>Pinout</a>
     <br/>
     <br/>
     <br/>
